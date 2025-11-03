@@ -1,0 +1,20 @@
+{
+  "name": "049_ucp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vararais/049_UCP1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vararais/049_UCP1/issues"
+  },
+  "homepage": "https://github.com/vararais/049_UCP1#readme"
+}
