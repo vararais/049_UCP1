@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/vararais/049_UCP1/issues"
   },
-  "homepage": "https://github.com/vararais/049_UCP1#readme"
+  "homepage": "https://github.com/vararais/049_UCP1#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3",
+    "nodemon": "^3.1.10",
+    "sequelize": "^6.37.7",
+    "sequelize-cli": "^6.6.3"
+  }
 }
